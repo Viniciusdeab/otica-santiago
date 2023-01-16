@@ -1,0 +1,14 @@
+.imagem_carrossel{
+    object-fit: cover;
+    opacity: .8;
+}
+
+.carousel-indicators li{
+    background-color: rgb(187, 0, 34);
+}
+
+.carousel_texto{
+    color:rgb(181, 18, 47);
+    font-family: 'Courgette', cursive;
+    /* height: 30vh; */
+}
